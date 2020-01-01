@@ -1,12 +1,12 @@
 baseURL = "https://app12-netlify.netlify.com"
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
-theme = "meghna-hugo"
-title = "Meghna"
+theme = ""
+title = "ManchiApps"
 [Languages.en]
 contentDir = "content/english"
 home = "Home"
@@ -35,14 +35,6 @@ weight = 3
 URL = "team"
 name = "Team"
 weight = 4
-[[menu.main]]
-URL = "pricing"
-name = "Pricing"
-weight = 5
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 6
 [[menu.main]]
 URL = "contact"
 name = "Contact"
