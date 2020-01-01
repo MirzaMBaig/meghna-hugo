@@ -1,4 +1,4 @@
-baseURL = "https://app12-netlify.com"
+baseURL = "https://app12-netlify.netlify.com"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 disableLanguages = []
