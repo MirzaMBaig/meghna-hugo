@@ -1,7 +1,7 @@
 baseURL = "https://app12-netlify.netlify.com"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
-disableLanguages = []
+disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
